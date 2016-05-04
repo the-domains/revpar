@@ -1,0 +1,28 @@
+name: RevPAR
+favicon: null
+layout_spectrum: 0.5123599243815988
+typography_spectrum: 0.05837635952048004
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.45953787257894874
+  lightness: 0.4085170233156532
+  saturation: 0.5310838969890028
+  rhythmicContrast: 0.5236188299022615
+purpose: []
