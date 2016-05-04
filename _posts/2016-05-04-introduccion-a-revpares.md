@@ -1,14 +1,9 @@
 ---
-author:
-  - name: RevPAR.es
-    url: 'https://www.youtube.com/user/revpares'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=yhhIQrF5yMs'
+inLanguage: en
 keywords:
   - revpar
   - duration
@@ -21,7 +16,13 @@ keywords:
   - andalucialab
   - backoffice
 description: Video de presentación de RevPARes
-inLanguage: en
+datePublished: '2016-05-04T12:12:00.377Z'
+dateModified: '2016-05-04T12:11:56.380Z'
+author:
+  - name: RevPAR.es
+    url: 'https://www.youtube.com/user/revpares'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=yhhIQrF5yMs&feature=applinks'
     type: ios
@@ -59,16 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=yhhIQrF5yMs'
 title: Introducción a RevPAR.es
-datePublished: '2016-05-04T12:04:17.264Z'
-dateModified: '2016-05-04T12:02:57.398Z'
-starred: false
 sourcePath: _posts/2016-05-04-introduccion-a-revpares.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
