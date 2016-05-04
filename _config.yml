@@ -1,7 +1,7 @@
 name: RevPAR
 favicon: null
-layout_spectrum: 0.5123599243815988
-typography_spectrum: 0.05837635952048004
+layout_spectrum: 1
+typography_spectrum: 0.11519
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.45953787257894874
-  lightness: 0.4085170233156532
-  saturation: 0.5310838969890028
-  rhythmicContrast: 0.5236188299022615
+    - '#204821'
+    - '#ffffff'
+    - '#d8af60'
+    - '#000000'
+    - '#829983'
+  brandStrength: 0.3125
+  lightness: 0.8125
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
