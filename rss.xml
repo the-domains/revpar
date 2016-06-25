@@ -4,7 +4,7 @@
         <description><![CDATA[RevPAR]]></description>
         <link>https://thegrid.ai/revpar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 12:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2016 05:55:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/revpar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Introducción a RevPAR.es]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.youtube.com/watch?v=yhhIQrF5yMs</link>
             <guid isPermaLink="false">39156c8f-ec61-4f03-a0fd-0b3eab3aaffe</guid>
             <pubDate>Wed, 04 May 2016 12:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>VRIntelio</p>]]></description>
+            <link>https://thegrid.ai/revpar/vrintelio/index.html</link>
+            <guid isPermaLink="false">ab88c703-370f-4f70-942a-3a862bdf3ff9</guid>
+            <pubDate>Sat, 25 Jun 2016 05:55:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
